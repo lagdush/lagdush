@@ -1,44 +1,37 @@
-### Hi👋 I'm Łukasz
-
+# Hi👋 I'm Łukasz
 I'm Frontend Developer and currently a member of the CodersCrew association. I love working in React and TypeScript.
+<br/><br/>
+## 🚀I’m currently working on:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodersCrew&repo=coderscamp)](https://github.com/CodersCrew/coderscamp)
 
-🔭 **I’m currently working on:**<br/>
-https://github.com/CodersCrew/coderscamp
 
 
-🛠 **My technologies and tools:**<br/>
-![React](https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)
-![Redux](https://camo.githubusercontent.com/5ffd853b0824728d0a8ce1f5dd3634891bb73fe5c560b423eb45c0e34be4581c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666c61742d737175617265266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)
-![JavaScript](https://camo.githubusercontent.com/d692eff9a2b5f9758b9af842391d1b80c1dae678467b244591138e3d53648b91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465)
-![TypeScript](https://camo.githubusercontent.com/d60afb008bc0bcde7ea8720637928cb02c0f9a6d795dad7382f688a17e7515de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
-![Jest](https://camo.githubusercontent.com/e0147f0edff52ce51a11bd63ff02ed510dce76d5cf2b86c24384463ab0318a6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6573742d4332313332353f7374796c653d666c61742d737175617265266c6f676f3d6a657374266c6f676f436f6c6f723d7768697465)
-![Styled Components](https://camo.githubusercontent.com/8fc85bca31c52a99d514f63ac40e1253cfb3713371510178b3c2fec84fc5c4e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5374796c6564253230436f6d706f6e656e74732d4442373039333f7374796c653d666c61742d737175617265266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465)
-![Storybook](https://camo.githubusercontent.com/168a81b746a65e0b4d32185af5737d486cc429f753549cdadc6ee3b745eae348/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53746f7279626f6f6b2d4646343738353f7374796c653d666c61742d737175617265266c6f676f3d73746f7279626f6f6b266c6f676f436f6c6f723d7768697465)
-![Gatsby](https://camo.githubusercontent.com/dd12aea2608434313ab195d2082180d89ac0df9c0e93a7531bff5d17f1a18512/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4761747362792d3636333339393f7374796c653d666c61742d737175617265266c6f676f3d676174736279266c6f676f436f6c6f723d7768697465)
+### 🛠My technologies and tools:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![EsLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![git](	https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Webpack](https://camo.githubusercontent.com/110c5bcf93c6198cad7e9b9387a32f4bde312d55f7e081a33e9e727b68abc770/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d3844443646393f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b266c6f676f436f6c6f723d7768697465)
 ![Babel](https://camo.githubusercontent.com/f6a4185837ffec05ae1929627e9100296a622eca3549657d72bb441081e818ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426162656c2d4639444333453f7374796c653d666c61742d737175617265266c6f676f3d626162656c266c6f676f436f6c6f723d7768697465)
-![Prettier](https://camo.githubusercontent.com/6f71b989e6d32eda6a2291e89b3f5cd9eed18c2ccbf20d6fb9a7565f2d39e190/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50726574746965722d4637423933453f7374796c653d666c61742d737175617265266c6f676f3d7072657474696572266c6f676f436f6c6f723d7768697465)
-![EsLint](https://camo.githubusercontent.com/c7bc66d718b4d847f74df96cff0554b918373f8f0256cbba8817d41f9079a6db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45534c696e742d3442333243333f7374796c653d666c61742d737175617265266c6f676f3d65736c696e74266c6f676f436f6c6f723d7768697465)
-![npm](https://camo.githubusercontent.com/1e50ab849e8c196ea962ac3b966a15924234879eeb85f9dd0e0431e43a145b43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)
-![git](https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lagdush&show_icons=true)
+### 📫 Contact:
+[<img align='left' alt='email' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>](zurawskiu@gmail.com)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lukzurawski/)
+<br/><br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lagdush&show_icons=true&custom_title=Łukasz_Żurawski_GitHub_Stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lagdush&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<!--
-**lagdush/lagdush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
