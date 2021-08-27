@@ -29,7 +29,6 @@ I'm Frontend Developer and currently a member of the CodersCrew association. I l
 <br/>
 
 ### 📫 Contact:
-[<img align='left' alt='email' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>](zurawskiu@gmail.com)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lukzurawski/)
 <br/><br/>
 
